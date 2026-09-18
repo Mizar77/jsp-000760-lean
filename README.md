@@ -39,3 +39,9 @@ Tested with Lean `v4.31.0` and Mathlib `v4.31.0`. `lake build` succeeds.
 The source contains no `sorry`, `admit`, custom `axiom`, or `native_decide`.
 The public theorems depend only on `propext`, `Classical.choice`, and
 `Quot.sound`.
+
+## Attribution
+
+Lean formalization: [Mizar77](https://github.com/Mizar77), developed with
+OpenAI Codex assistance. This repository is the original public source of the
+formalization.
